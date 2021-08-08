@@ -23,6 +23,12 @@ In this assignment, implemented a parallel program to compare the performance of
   * MPI_Gather
   * MPI_Alltoallv  
 
-The performance of the optimisations are studied by scaling up the number of parallel processes and amount of data communicated. More details can be found in the Assignment 1 directory.
+The performance of the optimisations are studied by scaling up the number of parallel processes and amount of data communicated. More details can be found in the Assignment 2 directory.
 
 **Assignment3:**
+
+In this assignment, implemented a parallel program to process a large Temperature data set to derive insights from the data bydistributing chunks of data across different parallel processes.
+
+MPI communication protocol was used for inter process communication. Studied the scaling of code by varyingnumber of compute nodes and processes per node.
+
+More details can be found in the Assignment 3 directory.
