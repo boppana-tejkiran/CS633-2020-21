@@ -17,3 +17,12 @@ In this assignment, implemented a parallel program to compare the performance of
  
  **Assignment2:**  
  
+ In this assignment, implemented network topology aware optimisations to the following four MPI Collective communication calls to optimise the MPI Collective communications
+  * MPI_Bcast
+  * MPI_Reduce
+  * MPI_Gather
+  * MPI_Alltoallv  
+
+The performance of the optimisations are studied by scaling up the number of parallel processes and amount of data communicated. More details can be found in the Assignment 1 directory.
+
+**Assignment3:**
